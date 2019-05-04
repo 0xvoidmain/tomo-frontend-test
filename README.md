@@ -24,6 +24,7 @@ Sử dụng Html/css/javascript và các thư viện front-end như ReactJS/VueJ
 - Số cấp menu có độ sâu không giới hạn
 - Khi hover vào menu cha sẽ hiện ra menu con
 - Khi thay đổi data đầu vào thì phải vẽ ra menu khác tương ứng.
+
 Điểm số:
 - Hoạt động đúng 50%
 - UI chiếm 20%
